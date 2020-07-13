@@ -1,7 +1,7 @@
 # NimbroNet2
 NimbroNet2 implementation from https://arxiv.org/abs/1912.07405
 
-### Sample Results from model
+### Sample Results from model of detection and field segmentation
 ![Report Image](report_image.png)
 ![Report Image](report_image1.png)
 ![Report Image](report_image2.png)
